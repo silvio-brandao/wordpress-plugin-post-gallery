@@ -13,7 +13,7 @@ A customizable WordPress plugin that displays a unique event gallery on your sit
 ## Installation ⚙️
 
 1. Download the plugin ZIP or clone this repository.
-2. Upload the `custom-blog-event-gallery` folder into your `/wp-content/plugins/` directory.
+2. Upload the `post-gallery` folder into your `/wp-content/plugins/` directory.
 3. Activate the plugin via the "Plugins" menu in WordPress.
 
 ## Shortcodes 📋
