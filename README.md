@@ -71,7 +71,7 @@ You can customize the layout by overriding the provided CSS in your theme or usi
 ## Screenshots 📸
 | Feature | Screenshot |
 |:---|:---|
-| Event Grid with Highlighted and Side Events | ![Event Grid](assets/screenshots/event-grid.png) |
+| Event Grid with Highlighted and Side Events | ![image](https://github.com/user-attachments/assets/9f427353-5b37-4000-8d29-e2eddaf35184) |
 
 ## Roadmap 🛤️
 - [ ] Add filtering options for categories.
